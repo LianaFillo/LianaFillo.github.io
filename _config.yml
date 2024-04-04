@@ -41,8 +41,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/lianafillo
-
+    url: https://www.linkedin.com/in/lianafillo
 
 # Postal address (add as many lines as necessary)
 address:
