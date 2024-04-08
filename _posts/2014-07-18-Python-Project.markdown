@@ -7,5 +7,6 @@ alt: image-alt
 project-date: March 2024
 purpose: KNES381
 category: Coding Data
-description: This is from a lab I completed in KNES 381 where I used generated data in order to create graphs to represent it via Python code. 
+description: Here I have highlighted a few different graphs I have created from Python code and data sets.
+Click here to view my code: https://www.kaggle.com/code/lianafillo7/website-code
 ---
