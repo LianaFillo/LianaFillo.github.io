@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 purpose: KNES 381
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Here I have shown a few skills I have learned and accomplished on excel. This is including creating 2 subplots from a data set, creating a histogram and creating equations to calculate data for different subjects. Here is the link to my excel sheet.
 ---
