@@ -8,5 +8,5 @@ project-date: March 2024
 purpose: KNES381
 category: Coding Data
 description: Here I have highlighted a few different graphs I have created from Python code and data sets. Click here to view my code 
-[Link Text](https://www.kaggle.com/code/lianafillo7/website-code)
+external link: https://www.kaggle.com/code/lianafillo7/website-code
 ---
