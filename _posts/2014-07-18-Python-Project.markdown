@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: python.png
+img: python.png, videoanalysis.png
 alt: image-alt
 project-date: March 2024
 purpose: KNES381
