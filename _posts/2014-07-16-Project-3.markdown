@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: excel.png
+alt: image-alt
+project-date: April 2014
+purpose: KNES 381
+category: Web Development
+description: I have included a screenshot and link to the excel spreadsheet I created throughout this semester. At the top were formulas which I embedded and locked near the bottom right of the spreadsheet. These can be used for generating different results based on each participant that is present. Through learing about conditional formating I was able to colour coordinate parts of my equations based on circumstances given. On the right I was able to recreate a previous graph I had plotted using python. And finally in the middle I was able to use data to create Histograms which also can be used for different participants. <img src="img/portfolio/excelscreenshot.png" alt="Excel" width="100%"> <a href="https://uofc-my.sharepoint.com/:x:/r/personal/liana_fillo_ucalgary_ca/Documents/ExcelAssignment.xlsx?d=w2273001bf7564479bca892038e168187&csf=1&web=1&e=2sEMW1"> Click here to access the spreadsheet </a>
+
+---
